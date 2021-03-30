@@ -56,4 +56,4 @@ If you have any questions, please contact me via Twitter DM.
       
 
 ### Technologies
-https://www.python.org/static/community_logos/python-powered-w-70x28.png![image](https://user-images.githubusercontent.com/81530619/113027105-adc63e00-91c4-11eb-8231-3549af8c3ee5.png)
+[image](https://user-images.githubusercontent.com/81530619/113027105-adc63e00-91c4-11eb-8231-3549af8c3ee5.png)
