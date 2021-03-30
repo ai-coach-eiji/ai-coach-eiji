@@ -19,26 +19,30 @@ Here are some ideas to get you started:
 
 I am conducting research using pose estimation technology at University of the Ryukyus.
 
+
 - 主にラート競技（跳躍）のデータを解析しています。
 
-I mainly analyze the data of the wheel gymnastics(vault).
+　I mainly analyze the data of the wheel gymnastics(vault).
+ 
 
 - 過去に琉球新報社様から[研究の取材をしていただきました。](https://ryukyushimpo.jp/news/entry-985832.html)
 
-Ryukyu Shimpo was interviewed us about our research.
+　Ryukyu Shimpo was interviewed us about our research.
+ 
 
 - 最近、Web(Django/Heroku/GCP)にも取り組んでいます。
 
-Recently I've been working on Web Application(Django/Heroku/GCP).
+　Recently I've been working on Web Application(Django/Heroku/GCP).
+ 
 
 - Unity や Nuxt.js に興味があります（勉強中）。
 
-I am interested in Unity and Nuxt.js.
+　I am interested in Unity and Nuxt.js.
 
 ### Works
 
-- 第10回スポーツデータ解析コンペティション（フェンシング部門）で優秀賞:medal:を受賞しました。
-- 姿勢判定アプリ:app:を作成しました。
+- 第10回スポーツデータ解析コンペティション（フェンシング部門）で優秀賞🥇を受賞しました。
+- [姿勢判定アプリ](https://ai-coach-eiji-handstand-v2.herokuapp.com/)🤸を作成しました。
 
 ### Recent Qiita Posts
 
