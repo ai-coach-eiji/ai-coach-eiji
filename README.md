@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 琉球大学大学院で姿勢推定技術を用いた研究をしています。
 
-I am conducting research using pose estimation technology at University of the Ryukyus.
+　　I am conducting research using pose estimation technology at University of the Ryukyus.
 
 
 - 主にラート競技（跳躍）のデータを解析しています。
