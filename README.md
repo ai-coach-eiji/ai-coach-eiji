@@ -39,10 +39,12 @@ Here are some ideas to get you started:
 
 　　I am interested in Unity and Nuxt.js.
 
+
 ### Works
 
 - 第10回スポーツデータ解析コンペティション（フェンシング部門）で優秀賞🥇を受賞しました。
 - [姿勢判定アプリ](https://ai-coach-eiji-handstand-v2.herokuapp.com/)🤸を作成しました。
+
 
 ### Recent Qiita Posts
 
@@ -52,8 +54,8 @@ Here are some ideas to get you started:
 何かご相談の際には、TwitterのDMから連絡をお願いします。
 If you have any questions, please contact me via Twitter DM. 
 
+
 ### SNS
       
 
 ### Technologies
-[image](https://user-images.githubusercontent.com/81530619/113027105-adc63e00-91c4-11eb-8231-3549af8c3ee5.png)
