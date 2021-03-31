@@ -15,29 +15,29 @@ Here are some ideas to get you started:
 
 ### About Me
 
-🧑‍🎓琉球大学大学院で姿勢推定技術を用いた研究をしています。
+- 🧑‍🎓琉球大学大学院で姿勢推定技術を用いた研究をしています。
 
-　　I am conducting research using pose estimation technology at University of the Ryukyus.
+    I am conducting research using pose estimation technology at University of the Ryukyus.
 
 
-⚪主にラート競技（跳躍）のデータを解析しています。
+- ⚪主にラート競技（跳躍）のデータを解析しています。
 
-　　I mainly analyze the data of the wheel gymnastics(vault).
+    I mainly analyze the data of the wheel gymnastics(vault).
  
 
-📰過去に琉球新報社様から[研究の取材をしていただきました。](https://ryukyushimpo.jp/news/entry-985832.html)
+- 📰過去に琉球新報社様から[研究の取材をしていただきました。](https://ryukyushimpo.jp/news/entry-985832.html)
 
-　　Ryukyu Shimpo was interviewed us about our research.
+    Ryukyu Shimpo was interviewed us about our research.
  
 
-🔆最近、Web(Django/Heroku/GCP)にも取り組んでいます。
+- 🔆最近、Web(Django/Heroku/GCP)にも取り組んでいます。
 
-　　Recently I've been working on Web Application(Django/Heroku/GCP).
+    Recently I've been working on Web Application(Django/Heroku/GCP).
  
 
-🔰Unity や Nuxt.js に興味があります（勉強中）。
+- 🔰Unity や Nuxt.js に興味があります（勉強中）。
 
-　　I am interested in Unity and Nuxt.js.
+    I am interested in Unity and Nuxt.js.
 
 
 ### Works
