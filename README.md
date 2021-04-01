@@ -17,27 +17,27 @@ Here are some ideas to get you started:
 
 - 🧑‍🎓琉球大学大学院で姿勢推定技術を用いた研究をしています。
 
-    I am conducting research using pose estimation technology at University of the Ryukyus.
+     I am conducting research using pose estimation technology at University of the Ryukyus.
 
 
 - ⚪主にラート競技（跳躍）のデータを解析しています。
 
-    I mainly analyze the data of the wheel gymnastics(vault).
+     I mainly analyze the data of the wheel gymnastics(vault).
  
 
 - 📰過去に琉球新報社様から[研究の取材をしていただきました。](https://ryukyushimpo.jp/news/entry-985832.html)
 
-    Ryukyu Shimpo was interviewed us about our research.
+     Ryukyu Shimpo was interviewed us about our research.
  
 
 - 🔆最近、Web(Django/Heroku/GCP)にも取り組んでいます。
 
-    Recently I've been working on Web Application(Django/Heroku/GCP).
+     Recently I've been working on Web Application(Django/Heroku/GCP).
  
 
 - 🔰Unity や Nuxt.js に興味があります（勉強中）。
 
-    I am interested in Unity and Nuxt.js.
+     I am interested in Unity and Nuxt.js.
 
 
 ### Works
@@ -61,5 +61,6 @@ Here are some ideas to get you started:
 
 
 ### SNS
+<a href="https://twitter.com/messages/compose?recipient_id=3926021412&ref_src=twsrc%5Etfw" class="twitter-dm-button" data-screen-name="1220castillo" data-show-count="false">Message ai-coach-eiji</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       
 https://qiita.com/soyeiji1220
