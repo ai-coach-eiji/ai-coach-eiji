@@ -61,6 +61,6 @@ Here are some ideas to get you started:
 
 
 ### SNS
-<a href="https://twitter.com/messages/compose?recipient_id=3926021412&ref_src=twsrc%5Etfw" class="twitter-dm-button" data-screen-name="1220castillo" data-show-count="false">Message ai-coach-eiji</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/messages/compose?recipient_id=3926021412&ref_src=twsrc%5Etfw" class="twitter-dm-button" data-screen-name="1220castillo" data-show-count="false">Message @1220castillo</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       
 https://qiita.com/soyeiji1220
