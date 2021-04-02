@@ -25,7 +25,7 @@ Here are some ideas to get you started:
      I mainly analyze the data of the wheel gymnastics(vault).
  
 
-- 📰過去に琉球新報社様から[研究の取材をしていただきました。](https://ryukyushimpo.jp/news/entry-985832.html)
+- 📰過去に琉球新報社様から[研究](https://ryukyushimpo.jp/news/entry-985832.html)の取材をしていただきました。
 
      Ryukyu Shimpo was interviewed us about our research.
  
@@ -61,6 +61,6 @@ Here are some ideas to get you started:
 
 
 ### SNS
-<a href="https://twitter.com/messages/compose?recipient_id=3926021412&ref_src=twsrc%5Etfw" class="twitter-dm-button" data-screen-name="1220castillo" data-show-count="false">Message @1220castillo</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+![circle_blue](https://user-images.githubusercontent.com/81530619/113411481-d468bc80-93f0-11eb-8157-c5b954ac473c.png)
 
 https://qiita.com/soyeiji1220
