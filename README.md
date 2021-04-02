@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ### How to reach me
 
-- 何かご相談の際には、TwitterのDM[✉️](https://twitter.com/messages/compose?recipient_id=3926021412)から連絡をお願いします。
+- 何かご相談の際には、Twitterの[DM✉️](https://twitter.com/messages/compose?recipient_id=3926021412)から連絡をお願いします。
 
   If you have any questions, please contact me via Twitter DM. 
 
