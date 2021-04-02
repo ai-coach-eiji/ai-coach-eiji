@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ### How to reach me
 
-- 何かご相談の際には、TwitterのDMから連絡をお願いします。
+- 何かご相談の際には、TwitterのDM[✉️](https://twitter.com/1220castillo)から連絡をお願いします。
 
   If you have any questions, please contact me via Twitter DM. 
 
