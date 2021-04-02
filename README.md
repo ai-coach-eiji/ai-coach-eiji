@@ -61,6 +61,6 @@ Here are some ideas to get you started:
 
 
 ### SNS
-![circle_blue](https://user-images.githubusercontent.com/81530619/113411481-d468bc80-93f0-11eb-8157-c5b954ac473c.png)
+[<img src="https://user-images.githubusercontent.com/81530619/113411481-d468bc80-93f0-11eb-8157-c5b954ac473c.png" alt="alt text" width="30%" height="30%">](https://twitter.com/1220castillo)
 
 https://qiita.com/soyeiji1220
