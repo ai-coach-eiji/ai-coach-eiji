@@ -48,8 +48,7 @@ Here are some ideas to get you started:
 
 ### Qiita Posts
 
--
--
+- [heroku に django プロジェクトをデプロイする時のエラーを解決したい](https://qiita.com/soyeiji1220/items/651e40a90904e028795d)
 - [mediapipe handtracking の導入に出てくるエラー対策](https://qiita.com/soyeiji1220/items/732d125a35dd26d89036)
 
 
