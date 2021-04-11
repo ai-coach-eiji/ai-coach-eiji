@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ### Qiita Posts
 
-- Apr 11 - [Python機械学習オンライン講義予習用](https://qiita.com/soyeiji1220/items/b70fb9d621e04c678fd1)
+- Apr 11 - [機械学習オンライン講義予習用](https://qiita.com/soyeiji1220/items/b70fb9d621e04c678fd1)
 - Apr 03 - [heroku に django プロジェクトをデプロイする時のエラーを解決したい](https://qiita.com/soyeiji1220/items/651e40a90904e028795d)
 - Sep 22 - [mediapipe handtracking の導入に出てくるエラー対策](https://qiita.com/soyeiji1220/items/732d125a35dd26d89036)
 
