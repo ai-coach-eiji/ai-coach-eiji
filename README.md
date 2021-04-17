@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 📰 過去に琉球新報社様から[研究](https://ryukyushimpo.jp/news/entry-985832.html)の取材をしていただきました。
 
-     Ryukyu Shimpo was interviewed us about our research.
+     Ryukyu Shimpo has interviewed us about our research.
  
 
 - 🔆 最近、Web(Django/Heroku/GCP)にも取り組んでいます。
