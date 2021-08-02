@@ -44,6 +44,9 @@ Here are some ideas to get you started:
 
 - 第10回スポーツデータ解析コンペティション（フェンシング部門）で優秀賞🥇 を[受賞](https://ryukyushimpo.jp/news/entry-1297836.html)しました。
 - [姿勢判定アプリ](https://ai-coach-eiji-handstand-v2.herokuapp.com/)🤸 を作成しました。
+- [Deep Learning基礎講座](https://deeplearning.jp/lectures/dlb2021/)を修了しました。
+![deeplearning_award](https://user-images.githubusercontent.com/81530619/127811236-8e6a0d3d-35bb-4987-9ddd-18299eeade6f.png)
+
 
 
 ### Qiita Posts
