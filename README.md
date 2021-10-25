@@ -30,14 +30,14 @@ Here are some ideas to get you started:
      Ryukyu Shimpo has interviewed us about our research.
  
 
-- 🔆 最近、Web(Django/Heroku/GCP)にも取り組んでいます。
+- 🔆 最近、Webアプリ(Django/Heroku)に取り組んでいます。
 
-     Recently I've been working on Web Application(Django/Heroku/GCP).
+     Recently I've been working on Web Application(Django/Heroku).
  
 
-- 🔰 Unity や Nuxt.js に興味があります（勉強中）。
+- 🔰 Unity や React に興味があります（勉強中）。
 
-     I am interested in Unity and Nuxt.js.
+     I am interested in Unity and React.
 
 
 ### Works
