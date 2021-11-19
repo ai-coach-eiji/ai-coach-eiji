@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   
 - G検定合格しました。
 
-  <img src="https://user-images.githubusercontent.com/81530619/142587537-e2b12d3d-45f0-4bd7-82c4-1b9c45be9c63.jpg" width="15%" height="10%">
+  [<img src="https://user-images.githubusercontent.com/81530619/142587537-e2b12d3d-45f0-4bd7-82c4-1b9c45be9c63.jpg" width="15%" height="10%">](https://www.jdla.org/news/20211119001/)
 
 
 
