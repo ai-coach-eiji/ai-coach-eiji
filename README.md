@@ -47,6 +47,10 @@ Here are some ideas to get you started:
 - [Deep Learning基礎講座](https://deeplearning.jp/lectures/dlb2021/)を修了しました。
 
   [<img src="https://user-images.githubusercontent.com/81530619/127811236-8e6a0d3d-35bb-4987-9ddd-18299eeade6f.png" width="40%" height="40%">](https://deeplearning.jp/lectures/dlb2021/)
+  
+- G検定合格しました。
+  [general2021#3_smal][<img src="https://user-images.githubusercontent.com/81530619/142587537-e2b12d3d-45f0-4bd7-82c4-1b9c45be9c63.jpg width="40%" height="40%">]
+
 
 
 
