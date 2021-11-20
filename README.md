@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 - 📰 過去に琉球新報社様から[研究](https://ryukyushimpo.jp/news/entry-985832.html)の取材をしていただきました。
 
      Ryukyu Shimpo has interviewed us about our research.
+
+- :tv: 琉球朝日放送様から[研究](https://www.qab.co.jp/news/20211119144434.html)の取材をしていただきました。
+
+     Ryukyu Shimpo has interviewed us about our research.
  
 
 - 🔆 最近、Webアプリ(Django/Heroku)に取り組んでいます。
