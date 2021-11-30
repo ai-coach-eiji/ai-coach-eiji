@@ -20,16 +20,20 @@ Here are some ideas to get you started:
      I am conducting research using pose estimation technology at University of the Ryukyus.
 
 
-- ⚪ 主にラート競技（跳躍）のデータを解析しています。
+- ⚪ 主にラート競技（跳躍）の動作データを解析しています。
 
-     I mainly analyze the data of the wheel gymnastics(vault).
+     I mainly analyze movement data of a person in the wheel gymnastics(vault).
+
+- 📙 研究活動は琉球大学広報詩 [News Letter 2020 April, Vol.26・P.01-02](https://www.u-ryukyu.ac.jp/aboutus/%e7%90%89%e5%a4%a7%e3%81%ae%e5%88%8a%e8%a1%8c%e7%89%a9/news-letter-backnumber/)に掲載していただきました。
+
+     Our research activities were published in the public relations magazine of the University of the Ryukyus.
  
 
 - 📰  過去に株式会社琉球新報社様から[研究](https://ryukyushimpo.jp/news/entry-985832.html)の取材をしていただきました。
 
      'The Ryukyu Shimpo' has interviewed us about our research.
 
-- :tv:  琉球朝日放送株式会社様から[研究](https://www.qab.co.jp/news/20211119144434.html)の取材をしていただきました。
+- 📺  琉球朝日放送株式会社様から[研究](https://www.qab.co.jp/news/20211119144434.html)の取材をしていただきました。
 
      'Ryukyu Asahi Broadcasting Corporation.' has interviewed us about our research.
  
