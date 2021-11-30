@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
      I mainly analyze movement data of a person in the wheel gymnastics(vault).
 
-- 📙 研究活動は琉球大学広報詩 [News Letter 2020 April, Vol.26・P.01-02](https://www.u-ryukyu.ac.jp/aboutus/%e7%90%89%e5%a4%a7%e3%81%ae%e5%88%8a%e8%a1%8c%e7%89%a9/news-letter-backnumber/)に掲載していただきました。
+- 📙 研究活動は琉球大学広報詩 [News Letter 2020 April(Vol.26・P.01-02)](https://www.u-ryukyu.ac.jp/aboutus/%e7%90%89%e5%a4%a7%e3%81%ae%e5%88%8a%e8%a1%8c%e7%89%a9/news-letter-backnumber/) に掲載していただきました。
 
      Our research activities were published in the public relations magazine of the University of the Ryukyus.
  
