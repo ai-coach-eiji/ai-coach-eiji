@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ### Works
 
-- 第10回スポーツデータ解析コンペティション（[フェンシング部門](https://sports.ywebsys.net/event/)）で優秀賞🥇 を[受賞](https://ryukyushimpo.jp/news/entry-1297836.html)しました。
+- 第10回スポーツデータ解析コンペティション（[フェンシング部門](https://sports.ywebsys.net/news/archives/0014/)）で優秀賞🥇 を[受賞](https://ryukyushimpo.jp/news/entry-1297836.html)しました。
 - [姿勢判定アプリ](https://ai-coach-eiji-handstand-v2.herokuapp.com/)🤸 を作成しました。
 - [Deep Learning基礎講座](https://deeplearning.jp/lectures/dlb2021/)を修了しました。
 
