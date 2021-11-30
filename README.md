@@ -5,6 +5,7 @@
 ### About Me
 
 - 😄 はじめまして、北島栄司と申します。
+
      Hi, my name is Eiji Kitajima. Nice to meet you.
 
 
