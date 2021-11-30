@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
      Recently I've been working on Web Application(Django/Heroku).
 
-- 📰  以前[ボートマッチアプリ「りゅうＶＯＴＥ」](https://ryukyushimpo.jp/news/entry-1134167.html)の開発にも携わりました。
+- 📰  以前、ボートマッチアプリ[「りゅうＶＯＴＥ」](https://ryukyushimpo.jp/news/entry-1134167.html)の開発にも携わりました。
 
      I was previously involved in the development of the vote-matching application "Ryu VOTE".
  
