@@ -4,6 +4,10 @@
 
 ### About Me
 
+- 😄 はじめまして、北島栄司と申します。
+     Hi, my name is Eiji Kitajima. Nice to meet you.
+
+
 - 🧑‍🎓 琉球大学大学院で姿勢推定技術を用いた研究をしています。
 
      I am conducting research using pose estimation technology at University of the Ryukyus.
