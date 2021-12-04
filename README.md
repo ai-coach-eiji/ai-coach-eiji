@@ -57,9 +57,9 @@
 
   [<img src="https://user-images.githubusercontent.com/81530619/127811236-8e6a0d3d-35bb-4987-9ddd-18299eeade6f.png" width="40%" height="40%">](https://deeplearning.jp/lectures/dlb2021/)
   
-- G検定合格しました。
+- [G検定]((https://www.jdla.org/news/20211119001/)合格しました。
 
-  [<img src="https://user-images.githubusercontent.com/81530619/144696428-1aa05ee2-541f-4dc8-88ce-4369082259e0.png" width="15%" height="10%">](https://www.jdla.org/news/20211119001/)
+  [<img src="https://user-images.githubusercontent.com/81530619/144696428-1aa05ee2-541f-4dc8-88ce-4369082259e0.png" width="15%" height="10%">](https://nlp.netlearning.co.jp/ns/portal/openbadge/#/public/assertions/user/eTVnYjJRRENxa2MxN1ZodmtoTmwyZz09)
 
 
 
@@ -79,4 +79,4 @@
 
 
 ### SNS
-[<img src="https://user-images.githubusercontent.com/81530619/113411481-d468bc80-93f0-11eb-8157-c5b954ac473c.png" alt="alt text" width="5%" height="5%">](https://twitter.com/1220castillo) [<img src="https://user-images.githubusercontent.com/81530619/113412155-83f25e80-93f2-11eb-8542-73e41efef46b.png" alt="alt text" width="5%" height="5%">](https://qiita.com/soyeiji1220) [<img src="https://user-images.githubusercontent.com/81530619/144696428-1aa05ee2-541f-4dc8-88ce-4369082259e0.png" alt="alt text" width="6%" height="6%">](https://nlp.netlearning.co.jp/ns/portal/openbadge/#/public/assertions/user/eTVnYjJRRENxa2MxN1ZodmtoTmwyZz09)
+[<img src="https://user-images.githubusercontent.com/81530619/113411481-d468bc80-93f0-11eb-8157-c5b954ac473c.png" alt="alt text" width="5%" height="5%">](https://twitter.com/1220castillo) [<img src="https://user-images.githubusercontent.com/81530619/113412155-83f25e80-93f2-11eb-8542-73e41efef46b.png" alt="alt text" width="5%" height="5%">](https://qiita.com/soyeiji1220)
