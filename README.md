@@ -59,7 +59,7 @@
   
 - G検定合格しました。
 
-  [<img src="https://user-images.githubusercontent.com/81530619/142587537-e2b12d3d-45f0-4bd7-82c4-1b9c45be9c63.jpg" width="15%" height="10%">](https://www.jdla.org/news/20211119001/)
+  [<img src="https://user-images.githubusercontent.com/81530619/144696428-1aa05ee2-541f-4dc8-88ce-4369082259e0.png" width="15%" height="10%">](https://www.jdla.org/news/20211119001/)
 
 
 
@@ -79,4 +79,5 @@
 
 
 ### SNS
-[<img src="https://user-images.githubusercontent.com/81530619/113411481-d468bc80-93f0-11eb-8157-c5b954ac473c.png" alt="alt text" width="5%" height="5%">](https://twitter.com/1220castillo) [<img src="https://user-images.githubusercontent.com/81530619/113412155-83f25e80-93f2-11eb-8542-73e41efef46b.png" alt="alt text" width="5%" height="5%">](https://qiita.com/soyeiji1220)
+[<img src="https://user-images.githubusercontent.com/81530619/113411481-d468bc80-93f0-11eb-8157-c5b954ac473c.png" alt="alt text" width="5%" height="5%">](https://twitter.com/1220castillo) [<img src="https://user-images.githubusercontent.com/81530619/113412155-83f25e80-93f2-11eb-8542-73e41efef46b.png" alt="alt text" width="5%" height="5%">](https://qiita.com/soyeiji1220) [<img src="https://user-images.githubusercontent.com/81530619/144696428-1aa05ee2-541f-4dc8-88ce-4369082259e0.png" alt="alt text" width="5%" height="5%">]
+(https://nlp.netlearning.co.jp/ns/portal/openbadge/#/public/assertions/user/eTVnYjJRRENxa2MxN1ZodmtoTmwyZz09)
