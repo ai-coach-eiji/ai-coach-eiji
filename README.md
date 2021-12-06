@@ -13,11 +13,6 @@
 
      I am conducting research using pose estimation technology at University of the Ryukyus.
 
-
-- ⚪ 主にラート競技（跳躍）の動作データを解析しています。
-
-     I mainly analyze movement data of a person in the wheel gymnastics(vault).
-
 <br>
 
 - 📙 研究活動は琉球大学広報詩 [News Letter 2020 April (Vol.26・P.01-02)](https://www.u-ryukyu.ac.jp/aboutus/%e7%90%89%e5%a4%a7%e3%81%ae%e5%88%8a%e8%a1%8c%e7%89%a9/news-letter-backnumber/) に掲載していただきました。
