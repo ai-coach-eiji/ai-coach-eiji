@@ -30,9 +30,9 @@
  
 <br>
 
-- 🔆  最近、Webアプリ(Django/Heroku)に取り組んでいます。
+- 🔆  最近、Webアプリ開発(Django/Heroku)に取り組んでいます。
 
-     Recently I've been working on Web Application (Django/Heroku).
+     Recently I've been working on Web Application development(Django/Heroku).
 
 - 📰  以前、ボートマッチアプリ[「りゅうＶＯＴＥ」](https://ryukyushimpo.jp/news/entry-1134167.html)の開発にも携わりました。
 
