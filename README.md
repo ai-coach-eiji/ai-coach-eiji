@@ -37,11 +37,6 @@
 - 📰  以前、ボートマッチアプリ[「りゅうＶＯＴＥ」](https://ryukyushimpo.jp/news/entry-1134167.html)の開発にも携わりました。
 
      I was previously involved in the development of the vote-matching application "Ryu VOTE".
- 
-
-- 🔰 Unity や React に興味があります（勉強中）。
-
-     I am interested in Unity and React.
 
 
 ### Works
