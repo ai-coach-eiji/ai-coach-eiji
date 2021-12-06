@@ -41,7 +41,7 @@
 
 ### Works
 
-- 2021-11-06 - [G検定](https://www.jdla.org/news/20211119001/)合格しました。
+- 2021-12-03 - [G検定](https://www.jdla.org/news/20211119001/)合格しました。
 
 [<img src="https://user-images.githubusercontent.com/81530619/144696428-1aa05ee2-541f-4dc8-88ce-4369082259e0.png" width="15%" height="10%">](https://nlp.netlearning.co.jp/ns/portal/openbadge/#/public/assertions/user/eTVnYjJRRENxa2MxN1ZodmtoTmwyZz09)
 
