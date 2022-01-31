@@ -41,6 +41,8 @@
 
 ### Works
 
+- 2022-01-28 - 第11回スポーツデータ解析コンペティション（[卓球部門](https://sports.ywebsys.net/news/archives/0018/))で最優秀賞🥇 を受賞しました。
+
 - 2021-12-03 - [G検定](https://www.jdla.org/news/20211119001/)合格しました。
 
 [<img src="https://user-images.githubusercontent.com/81530619/144696428-1aa05ee2-541f-4dc8-88ce-4369082259e0.png" width="15%" height="10%">](https://nlp.netlearning.co.jp/ns/portal/openbadge/#/public/assertions/user/eTVnYjJRRENxa2MxN1ZodmtoTmwyZz09)
