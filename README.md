@@ -41,7 +41,7 @@
 
 ### Works
 
-- 2022-01-28 - 第11回スポーツデータ解析コンペティション（[卓球部門](https://sports.ywebsys.net/news/archives/0018/))で最優秀賞🥇 を受賞しました。
+- 2022-01-28 - 第11回スポーツデータ解析コンペティション（[卓球部門](https://sports.ywebsys.net/news/archives/0018/))で最優秀賞🥇 を[受賞](https://www.okinawatimes.co.jp/articles/-/944079)しました。
 
 - 2021-12-03 - [G検定](https://www.jdla.org/news/20211119001/)合格しました。
 
