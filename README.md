@@ -6,7 +6,7 @@
 
 - 😄 はじめまして、北島栄司と申します。
 
-     Hi, my name is Eiji Kitajima. Nice to meet you.
+     Hi, I'm Eiji Kitajima. Nice to meet you.
 
 
 - 🧑‍🎓 琉球大学大学院で姿勢推定技術を用いた研究をしています。
@@ -65,9 +65,9 @@
 
 ### How to reach me
 
-- 何かご相談の際には、Twitterの[DM](https://twitter.com/messages/compose?recipient_id=3926021412)✉️ から連絡をお願いします。
+- 何かご不明点がございましたら、Twitterの[DM](https://twitter.com/messages/compose?recipient_id=3926021412)✉️ から連絡をお願いします。
 
-  If you have any questions, please contact me via Twitter DM. 
+  Feel free to contact us if you have additional questions. 
 
 
 ### SNS
