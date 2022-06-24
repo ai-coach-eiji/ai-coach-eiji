@@ -97,7 +97,7 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
      </a>
      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="django" width="40" height="40"/>
+          <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="django" width="40" height="30"/>
      </a>
      <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/>
      </a>
