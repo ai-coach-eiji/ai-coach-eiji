@@ -65,7 +65,7 @@
 
 ### How to reach me
 
-- 何かご不明点がございましたら、Twitterの[DM](https://twitter.com/messages/compose?recipient_id=3926021412)✉️ から連絡をお願いします。
+- Twitterの[DM](https://twitter.com/messages/compose?recipient_id=3926021412)✉️ 解放しています。
 
   Feel free to contact us if you have additional questions. 
 
