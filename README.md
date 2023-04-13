@@ -44,10 +44,10 @@
 - 2022-03-27 - :octocat: [サイバー道場](https://ryukyushimpo.jp/news/entry-1684460.html)の開発に携わりました。
 
 - 2023-01-24 - 2022年度スポーツデータサイエンスコンペティション（柔道部門)で[入賞](https://ryukyushimpo.jp/news/entry-1692362.html)🎉 しました。
-  [<img src="https://ryukyushimpo.jp/archives/002/202304/RS20230330G00511010100.jpg" width="40%" height="40%">]
+  <img src="https://ryukyushimpo.jp/archives/002/202304/RS20230330G00511010100.jpg" width="40%" height="40%">
 
 - 2022-01-28 - 第11回スポーツデータ解析コンペティション（[卓球部門](https://sports.ywebsys.net/news/archives/0018/))で最優秀賞🥇 を[受賞](https://www.okinawatimes.co.jp/articles/-/944079)しました。
-  [<img src="https://oki.ismcdn.jp/mwimgs/d/2/1528wm/img_d2cdcbc81808ff0da5dc837753e23ea53977973.jpg" width="40%" height="40%">]
+  <img src="https://oki.ismcdn.jp/mwimgs/d/2/1528wm/img_d2cdcbc81808ff0da5dc837753e23ea53977973.jpg" width="40%" height="40%">
 
 - 2021-12-03 - [G検定](https://www.jdla.org/news/20211119001/)合格しました。
 
