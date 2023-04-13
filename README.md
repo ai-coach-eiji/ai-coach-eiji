@@ -30,9 +30,9 @@
  
 <br>
 
-- 🔆  最近、Webアプリ開発(Django/Heroku)に取り組んでいます。
+- 🔆  最近、ChatGPTの使い方を模索しています。
 
-     Recently I've been working on Web Application development(Django/Heroku).
+     Recently I've been exploring ways to use ChatGPT.
 
 - 📰  以前、ボートマッチアプリ[「りゅうＶＯＴＥ」](https://ryukyushimpo.jp/news/entry-1134167.html)の開発にも携わりました。
 
@@ -41,7 +41,13 @@
 
 ### Works
 
+- 2022-03-27 - :octocat: [サイバー道場](https://ryukyushimpo.jp/news/entry-1684460.html)の開発に携わりました。
+
+- 2023-01-24 - 2022年度スポーツデータサイエンスコンペティション（柔道部門)で[入賞](https://ryukyushimpo.jp/news/entry-1692362.html)🎉 しました。
+  [<img src="https://ryukyushimpo.jp/archives/002/202304/RS20230330G00511010100.jpg" width="40%" height="40%">]
+
 - 2022-01-28 - 第11回スポーツデータ解析コンペティション（[卓球部門](https://sports.ywebsys.net/news/archives/0018/))で最優秀賞🥇 を[受賞](https://www.okinawatimes.co.jp/articles/-/944079)しました。
+  [<img src="https://oki.ismcdn.jp/mwimgs/d/2/1528wm/img_d2cdcbc81808ff0da5dc837753e23ea53977973.jpg" width="40%" height="40%">]
 
 - 2021-12-03 - [G検定](https://www.jdla.org/news/20211119001/)合格しました。
 
@@ -54,6 +60,7 @@
 - 2021-04-06 - [姿勢判定アプリ](https://ai-coach-eiji-handstand-v2.herokuapp.com/)🤸 を作成しました。
   
 - 2021-01-15 - 第10回スポーツデータ解析コンペティション（[フェンシング部門](https://sports.ywebsys.net/news/archives/0014/)）で優秀賞🥇 を[受賞](https://ryukyushimpo.jp/news/entry-1297836.html)しました。
+  [<img src="https://ryukyushimpo.jp/archives/002/202104/5082b3e65e1aea6087a1e509b90df2eb.jpg" width="40%" height="30%"]
 
 
 ### Qiita Posts
@@ -71,7 +78,7 @@
 
 
 ### SNS
-[<img src="https://user-images.githubusercontent.com/81530619/113411481-d468bc80-93f0-11eb-8157-c5b954ac473c.png" alt="alt text" width="5%" height="5%">](https://twitter.com/1220castillo) [<img src="https://user-images.githubusercontent.com/81530619/113412155-83f25e80-93f2-11eb-8542-73e41efef46b.png" alt="alt text" width="5%" height="5%">](https://qiita.com/soyeiji1220)
+[<img src="https://user-images.githubusercontent.com/81530619/113411481-d468bc80-93f0-11eb-8157-c5b954ac473c.png" alt="alt text" width="5%" height="5%">](https://twitter.com/1220_eiji) [<img src="https://user-images.githubusercontent.com/81530619/113412155-83f25e80-93f2-11eb-8542-73e41efef46b.png" alt="alt text" width="5%" height="5%">](https://qiita.com/soyeiji1220)
 
 ### Languages and Tools
 <p align="left">
