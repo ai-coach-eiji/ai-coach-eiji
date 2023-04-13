@@ -41,7 +41,7 @@
 
 ### Works
 
-- 2022-03-27 - :octocat: [サイバー道場](https://ryukyushimpo.jp/news/entry-1684460.html)の開発に携わりました。
+- 2022-03-27 - :octocat: <a href="https://ryukyushimpo.jp/news/entry-1684460.html">サイバー道場</a>の開発に携わりました。
 
 - 2023-01-24 - 2022年度スポーツデータサイエンスコンペティション（柔道部門)で[入賞](https://ryukyushimpo.jp/news/entry-1692362.html)🎉 しました。
   <img src="https://ryukyushimpo.jp/archives/002/202304/RS20230330G00511010100.jpg" width="40%" height="40%">
