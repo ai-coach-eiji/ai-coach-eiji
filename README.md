@@ -9,10 +9,6 @@
 
 <br>
 
-- 📙 研究活動は琉球大学広報詩 [News Letter 2020 April (Vol.26・P.01-02)](https://www.u-ryukyu.ac.jp/aboutus/%e7%90%89%e5%a4%a7%e3%81%ae%e5%88%8a%e8%a1%8c%e7%89%a9/news-letter-backnumber/) に掲載していただきました。
-
-     Our research activities were published in the public relations magazine of the University of the Ryukyus.
-
 
 ### Works
 
@@ -51,6 +47,8 @@
 - 2020-06-06 - ボートマッチアプリ[「りゅうＶＯＴＥ」](https://ryukyushimpo.jp/news/entry-1134167.html)の開発に携わりました。
   
   <img src="https://030b46df30379e0bf930783bea7c8649.cdnext.stream.ne.jp/archives/002/202005/cb1960e5cb2711ec99fefc924a677e78.jpg" width="40%" height="40%"> 
+
+- 2020 研究活動を琉球大学広報詩 [News Letter 2020 April (Vol.26・P.01-02)](https://www.u-ryukyu.ac.jp/univ_info/koushiki-hp/NewsLetter-vol26.pdf) に掲載していただきました。
 
 - 2019-09-08 - 株式会社琉球新報社様から[研究](https://ryukyushimpo.jp/news/entry-985832.html)の取材をしていただきました。
   
