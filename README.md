@@ -18,21 +18,6 @@
 - 📙 研究活動は琉球大学広報詩 [News Letter 2020 April (Vol.26・P.01-02)](https://www.u-ryukyu.ac.jp/aboutus/%e7%90%89%e5%a4%a7%e3%81%ae%e5%88%8a%e8%a1%8c%e7%89%a9/news-letter-backnumber/) に掲載していただきました。
 
      Our research activities were published in the public relations magazine of the University of the Ryukyus.
- 
-
-- 📰  過去に株式会社琉球新報社様から[研究](https://ryukyushimpo.jp/news/entry-985832.html)の取材をしていただきました。
-
-     'The Ryukyu Shimpo' has interviewed us about our research.
-
-- 📺  琉球朝日放送株式会社様から[研究](https://www.qab.co.jp/news/20211119144434.html)の取材をしていただきました。
-
-     'Ryukyu Asahi Broadcasting Corporation.' has interviewed us about our research.
- 
-<br>
-
-- 🔆  最近、ChatGPTの使い方を模索しています。
-
-     Recently I've been exploring ways to use ChatGPT.
 
 - 📰  以前、ボートマッチアプリ[「りゅうＶＯＴＥ」](https://ryukyushimpo.jp/news/entry-1134167.html)の開発にも携わりました。
 
@@ -41,7 +26,7 @@
 
 ### Works
 
-- 2022-03-27 - :octocat: <a href="https://ryukyushimpo.jp/news/entry-1684460.html">サイバー道場</a>の開発に携わりました。
+- 2022-03-27 - :octocat: <a href="https://news.yahoo.co.jp/articles/5469a22ed2d7734e0bd113dba7fecd21bb52ef13">サイバー道場</a>の開発に携わりました。
 
 - 2023-01-24 - 2022年度スポーツデータサイエンスコンペティション（柔道部門)で[入賞](https://www.okinawatimes.co.jp/articles/-/1130606)🎉 しました。
   <img src="https://ryukyushimpo.jp/archives/002/202304/RS20230330G00511010100.jpg" width="40%" height="40%">
@@ -62,6 +47,13 @@
 - 2021-01-15 - 第10回スポーツデータ解析コンペティション（[フェンシング部門](https://sports.ywebsys.net/news/archives/0014/)）で優秀賞🥇 を[受賞](https://ryukyushimpo.jp/news/entry-1297836.html)しました。
   <img src="https://ryukyushimpo.jp/archives/002/202104/5082b3e65e1aea6087a1e509b90df2eb.jpg" width="40%" height="30%">
 
+- 📰  過去に株式会社琉球新報社様から[研究](https://ryukyushimpo.jp/news/entry-985832.html)の取材をしていただきました。
+
+     'The Ryukyu Shimpo' has interviewed us about our research.
+
+- 📺  琉球朝日放送株式会社様から[研究](https://www.qab.co.jp/news/20211119144434.html)の取材をしていただきました。
+
+     'Ryukyu Asahi Broadcasting Corporation.' has interviewed us about our research.
 
 ### Qiita Posts
 
