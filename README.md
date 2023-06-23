@@ -40,7 +40,7 @@
 
 - 2021-11-19 - 琉球朝日放送株式会社様から[研究](https://www.qab.co.jp/news/20211119144434.html)の取材をしていただきました。
 
-  [<img href="https://www.qab.co.jp/news/wp-content/uploads/21-11-19-rp-01-001-1536x864.jpg" width="40%" height="30%">]
+  <img src="https://www.qab.co.jp/news/wp-content/uploads/21-11-19-rp-01-001-1536x864.jpg" width="40%" height="30%">
 
 - 2021-07-27 - [Deep Learning基礎講座](https://deeplearning.jp/lectures/dlb2021/)を修了しました。
 
