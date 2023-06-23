@@ -38,6 +38,8 @@
 
 [<img src="https://user-images.githubusercontent.com/81530619/144696428-1aa05ee2-541f-4dc8-88ce-4369082259e0.png" width="15%" height="10%">](https://nlp.netlearning.co.jp/ns/portal/openbadge/#/public/assertions/user/eTVnYjJRRENxa2MxN1ZodmtoTmwyZz09)
 
+- 2021-11-19 - 琉球朝日放送株式会社様から[研究](https://www.qab.co.jp/news/20211119144434.html)の取材をしていただきました。
+
 - 2021-07-27 - [Deep Learning基礎講座](https://deeplearning.jp/lectures/dlb2021/)を修了しました。
 
   [<img src="https://user-images.githubusercontent.com/81530619/127811236-8e6a0d3d-35bb-4987-9ddd-18299eeade6f.png" width="40%" height="40%">](https://deeplearning.jp/lectures/dlb2021/)
@@ -47,9 +49,7 @@
 - 2021-01-15 - 第10回スポーツデータ解析コンペティション（[フェンシング部門](https://sports.ywebsys.net/news/archives/0014/)）で優秀賞🥇 を[受賞](https://ryukyushimpo.jp/news/entry-1297836.html)しました。
   <img src="https://ryukyushimpo.jp/archives/002/202104/5082b3e65e1aea6087a1e509b90df2eb.jpg" width="40%" height="30%">
 
-- 株式会社琉球新報社様から[研究](https://ryukyushimpo.jp/news/entry-985832.html)の取材をしていただきました。
-
-- 2021-11-19 - 📺 琉球朝日放送株式会社様から[研究](https://www.qab.co.jp/news/20211119144434.html)の取材をしていただきました。
+- 2019-09-08 - 株式会社琉球新報社様から[研究](https://ryukyushimpo.jp/news/entry-985832.html)の取材をしていただきました。
 
 ### Qiita Posts
 
