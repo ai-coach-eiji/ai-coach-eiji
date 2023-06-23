@@ -26,7 +26,8 @@
 
 ### Works
 
-- 2022-03-27 - :octocat: <a href="https://news.yahoo.co.jp/articles/5469a22ed2d7734e0bd113dba7fecd21bb52ef13">サイバー道場</a>の開発に携わりました。
+- 2022-03-27 - :octocat: <a href="https://news.yahoo.co.jp/articles/5469a22ed2d7734e0bd113dba7fecd21bb52ef13">サイバー道場</a>の開発に携わりました。[琉球大学令和５年２月期学長記者懇談会](https://www.u-ryukyu.ac.jp/news/42052/)
+
 
 - 2023-01-24 - 2022年度スポーツデータサイエンスコンペティション（柔道部門)で[入賞](https://www.okinawatimes.co.jp/articles/-/1130606)🎉 しました。
   <img src="https://ryukyushimpo.jp/archives/002/202304/RS20230330G00511010100.jpg" width="40%" height="40%">
