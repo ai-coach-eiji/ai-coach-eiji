@@ -26,7 +26,7 @@
 
 ### Works
 
-- 2022-03-27 - :octocat: <a href="https://news.yahoo.co.jp/articles/5469a22ed2d7734e0bd113dba7fecd21bb52ef13">サイバー道場</a>の開発に携わりました。[琉球大学令和５年２月期学長記者懇談会](https://www.u-ryukyu.ac.jp/news/42052/)
+- 2022-03-27 - :octocat: <a href="https://news.yahoo.co.jp/articles/5469a22ed2d7734e0bd113dba7fecd21bb52ef13">サイバー道場</a>の開発（[琉球大学令和５年２月期学長記者懇談会](https://www.u-ryukyu.ac.jp/news/42052/)）に携わりました。
   
   〜③令和４年度琉球歴史文化コンテンツ創出支援事業「サイバー道場」における琉球古武道の動作解析に関する取り組み〜
 
