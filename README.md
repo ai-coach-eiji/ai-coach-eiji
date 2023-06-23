@@ -47,13 +47,9 @@
 - 2021-01-15 - 第10回スポーツデータ解析コンペティション（[フェンシング部門](https://sports.ywebsys.net/news/archives/0014/)）で優秀賞🥇 を[受賞](https://ryukyushimpo.jp/news/entry-1297836.html)しました。
   <img src="https://ryukyushimpo.jp/archives/002/202104/5082b3e65e1aea6087a1e509b90df2eb.jpg" width="40%" height="30%">
 
-- 📰  過去に株式会社琉球新報社様から[研究](https://ryukyushimpo.jp/news/entry-985832.html)の取材をしていただきました。
+- 株式会社琉球新報社様から[研究](https://ryukyushimpo.jp/news/entry-985832.html)の取材をしていただきました。
 
-     'The Ryukyu Shimpo' has interviewed us about our research.
-
-- 📺  琉球朝日放送株式会社様から[研究](https://www.qab.co.jp/news/20211119144434.html)の取材をしていただきました。
-
-     'Ryukyu Asahi Broadcasting Corporation.' has interviewed us about our research.
+- 2021-11-19 - 📺 琉球朝日放送株式会社様から[研究](https://www.qab.co.jp/news/20211119144434.html)の取材をしていただきました。
 
 ### Qiita Posts
 
