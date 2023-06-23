@@ -44,7 +44,7 @@
 - 2021-01-15 - 第10回スポーツデータ解析コンペティション（[フェンシング部門](https://sports.ywebsys.net/news/archives/0014/)）で優秀賞🥇 を[受賞](https://ryukyushimpo.jp/news/entry-1297836.html)しました。
   <img src="https://ryukyushimpo.jp/archives/002/202104/5082b3e65e1aea6087a1e509b90df2eb.jpg" width="40%" height="30%">
 
-- 2020-06-06 - ボートマッチアプリ[「りゅうＶＯＴＥ」](https://ryukyushimpo.jp/news/entry-1134167.html)の開発に携わりました。
+- 2020-06-06 - ボートマッチアプリ<a href="https://ryukyushimpo.jp/news/entry-1134167.html" target="_blank" rel="noopener noreferrer">「りゅうＶＯＴＥ」</a>の開発に携わりました。
   
   <img src="https://030b46df30379e0bf930783bea7c8649.cdnext.stream.ne.jp/archives/002/202005/cb1960e5cb2711ec99fefc924a677e78.jpg" width="40%" height="40%"> 
 
