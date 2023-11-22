@@ -1,6 +1,7 @@
 <!--
 **ai-coach-eiji/ai-coach-eiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+![ai_coach](https://github.com/ai-coach-eiji/ai-coach-eiji/assets/81530619/fe3e9b87-77b5-4b92-88b4-9f36fbce121c)
 
 ### About Me
 
@@ -52,7 +53,7 @@
 
 - 2019-09-08 - 株式会社琉球新報社様から[研究](https://ryukyushimpo.jp/news/entry-985832.html)の取材をしていただきました。
   
-  <img src="https://ryukyushimpo.jp/tachyon/legacy/002/201909/b67d7f35e073a471edbb23fd984b0091.jpg" width="40%" height="30%">
+  <img src="https://github.com/ai-coach-eiji/ai-coach-eiji/assets/81530619/fe3e9b87-77b5-4b92-88b4-9f36fbce121c" width="40%" height="30%">
 
 ### Qiita Posts
 
