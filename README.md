@@ -46,7 +46,7 @@
 
 - 2020-06-06 - ボートマッチアプリ<a href="https://ryukyushimpo.jp/news/entry-1134167.html" target="_blank" rel="noopener noreferrer">「りゅうＶＯＴＥ」</a>の開発に携わりました。
   
-  <img src="https://030b46df30379e0bf930783bea7c8649.cdnext.stream.ne.jp/archives/002/202005/cb1960e5cb2711ec99fefc924a677e78.jpg" width="40%" height="40%"> 
+  <img src="https://ryukyushimpo.jp/tachyon/legacy/002/202005/cb1960e5cb2711ec99fefc924a677e78.jpg" width="40%" height="40%"> 
 
 - 2020-04 - 研究活動を琉球大学広報詩 [News Letter 2020 April (Vol.26・P.01-02)](https://www.u-ryukyu.ac.jp/univ_info/koushiki-hp/NewsLetter-vol26.pdf) に掲載していただきました。
 
