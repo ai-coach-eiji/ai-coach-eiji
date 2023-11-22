@@ -52,7 +52,7 @@
 
 - 2019-09-08 - 株式会社琉球新報社様から[研究](https://ryukyushimpo.jp/news/entry-985832.html)の取材をしていただきました。
   
-  <img src="https://030b46df30379e0bf930783bea7c8649.cdnext.stream.ne.jp/archives/002/201909/b67d7f35e073a471edbb23fd984b0091.jpg" width="40%" height="30%">
+  <img src="https://ryukyushimpo.jp/tachyon/legacy/002/201909/b67d7f35e073a471edbb23fd984b0091.jpg" width="40%" height="30%">
 
 ### Qiita Posts
 
