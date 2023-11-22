@@ -1,7 +1,6 @@
 <!--
 **ai-coach-eiji/ai-coach-eiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![ai_coach](https://github.com/ai-coach-eiji/ai-coach-eiji/assets/81530619/fe3e9b87-77b5-4b92-88b4-9f36fbce121c)
 
 ### About Me
 
@@ -41,11 +40,6 @@
   [<img src="https://user-images.githubusercontent.com/81530619/127811236-8e6a0d3d-35bb-4987-9ddd-18299eeade6f.png" width="40%" height="40%">](https://deeplearning.jp/lectures/dlb2021/)
 
 - 2021-04-06 - [姿勢判定アプリ](https://ai-coach-eiji-handstand-v2.herokuapp.com/)🤸 を作成しました。
-
-![judo](https://github.com/ai-coach-eiji/ai-coach-eiji/assets/81530619/fe223b53-01bc-44bf-9ce8-fb19834f1ee5)
-![fencing](https://github.com/ai-coach-eiji/ai-coach-eiji/assets/81530619/db99ca13-5458-419e-84b6-96dec6d93668)
-![ryu-vote](https://github.com/ai-coach-eiji/ai-coach-eiji/assets/81530619/653febbe-7270-4a8a-a6d8-94928a8a1866)
-
   
 - 2021-01-15 - 第10回スポーツデータ解析コンペティション（[フェンシング部門](https://sports.ywebsys.net/news/archives/0014/)）で優秀賞🥇 を[受賞](https://ryukyushimpo.jp/news/entry-1297836.html)しました。
   <img src="https://github.com/ai-coach-eiji/ai-coach-eiji/assets/81530619/db99ca13-5458-419e-84b6-96dec6d93668" width="40%" height="30%">
