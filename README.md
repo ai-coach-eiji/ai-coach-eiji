@@ -42,7 +42,7 @@
 - 2021-04-06 - [姿勢判定アプリ](https://ai-coach-eiji-handstand-v2.herokuapp.com/)🤸 を作成しました。
   
 - 2021-01-15 - 第10回スポーツデータ解析コンペティション（[フェンシング部門](https://sports.ywebsys.net/news/archives/0014/)）で優秀賞🥇 を[受賞](https://ryukyushimpo.jp/news/entry-1297836.html)しました。
-  <img src="https://ryukyushimpo.jp/archives/002/202104/5082b3e65e1aea6087a1e509b90df2eb.jpg" width="40%" height="30%">
+  <img src="https://ryukyushimpo.jp/tachyon/legacy/002/202104/5082b3e65e1aea6087a1e509b90df2eb.jpg" width="40%" height="30%">
 
 - 2020-06-06 - ボートマッチアプリ<a href="https://ryukyushimpo.jp/news/entry-1134167.html" target="_blank" rel="noopener noreferrer">「りゅうＶＯＴＥ」</a>の開発に携わりました。
   
