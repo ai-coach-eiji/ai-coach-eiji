@@ -23,7 +23,7 @@
 
 
 - 2023-01-24 - 2022年度スポーツデータサイエンスコンペティション（柔道部門)で[入賞](https://www.okinawatimes.co.jp/articles/-/1130606)🎉 しました。
-  <img src="https://oki.ismcdn.jp/mwimgs/8/b/1528wm/img_8bca6441d9b717612a5b9caffee1da3c3641291.jpg" width="40%" height="40%">
+  <img src="https://github.com/ai-coach-eiji/ai-coach-eiji/assets/81530619/fe223b53-01bc-44bf-9ce8-fb19834f1ee5" width="40%" height="40%">
 
 - 2022-01-28 - 第11回スポーツデータ解析コンペティション（[卓球部門](https://sports.ywebsys.net/news/archives/0018/))で最優秀賞🥇 を[受賞](https://www.okinawatimes.co.jp/articles/-/944079)しました。
   <img src="https://oki.ismcdn.jp/mwimgs/d/2/1528wm/img_d2cdcbc81808ff0da5dc837753e23ea53977973.jpg" width="40%" height="40%">
@@ -41,13 +41,18 @@
   [<img src="https://user-images.githubusercontent.com/81530619/127811236-8e6a0d3d-35bb-4987-9ddd-18299eeade6f.png" width="40%" height="40%">](https://deeplearning.jp/lectures/dlb2021/)
 
 - 2021-04-06 - [姿勢判定アプリ](https://ai-coach-eiji-handstand-v2.herokuapp.com/)🤸 を作成しました。
+
+![judo](https://github.com/ai-coach-eiji/ai-coach-eiji/assets/81530619/fe223b53-01bc-44bf-9ce8-fb19834f1ee5)
+![fencing](https://github.com/ai-coach-eiji/ai-coach-eiji/assets/81530619/db99ca13-5458-419e-84b6-96dec6d93668)
+![ryu-vote](https://github.com/ai-coach-eiji/ai-coach-eiji/assets/81530619/653febbe-7270-4a8a-a6d8-94928a8a1866)
+
   
 - 2021-01-15 - 第10回スポーツデータ解析コンペティション（[フェンシング部門](https://sports.ywebsys.net/news/archives/0014/)）で優秀賞🥇 を[受賞](https://ryukyushimpo.jp/news/entry-1297836.html)しました。
-  <img src="https://ryukyushimpo.jp/tachyon/legacy/002/202104/5082b3e65e1aea6087a1e509b90df2eb.jpg" width="40%" height="30%">
+  <img src="https://github.com/ai-coach-eiji/ai-coach-eiji/assets/81530619/db99ca13-5458-419e-84b6-96dec6d93668" width="40%" height="30%">
 
 - 2020-06-06 - ボートマッチアプリ<a href="https://ryukyushimpo.jp/news/entry-1134167.html" target="_blank" rel="noopener noreferrer">「りゅうＶＯＴＥ」</a>の開発に携わりました。
   
-  <img src="https://ryukyushimpo.jp/tachyon/legacy/002/202005/cb1960e5cb2711ec99fefc924a677e78.jpg" width="40%" height="40%"> 
+  <img src="https://github.com/ai-coach-eiji/ai-coach-eiji/assets/81530619/653febbe-7270-4a8a-a6d8-94928a8a1866" width="40%" height="40%"> 
 
 - 2020-04 - 研究活動を琉球大学広報詩 [News Letter 2020 April (Vol.26・P.01-02)](https://www.u-ryukyu.ac.jp/univ_info/koushiki-hp/NewsLetter-vol26.pdf) に掲載していただきました。
 
