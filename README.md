@@ -12,7 +12,7 @@
 
 ### Works
 
-- 2023-11-29 - [AI採点技術](https://ryukyushimpo.jp/news/sports/entry-2399294.html)の開発（[琉球大学令和5年11月期学長記者懇談会](https://www.u-ryukyu.ac.jp/news/50613/）に携わりました。
+- 2023-11-29 - [AI採点技術](https://ryukyushimpo.jp/news/sports/entry-2399294.html)の開発（[琉球大学令和5年11月期学長記者懇談会](https://www.u-ryukyu.ac.jp/news/50613/））に携わりました。
   
   〜①第３回ワールド琉球古武道チャンピオンシップ（世界大会)での AI採点導入について〜
   <img src="https://github.com/ai-coach-eiji/ai-coach-eiji/assets/81530619/fbef7a6c-f5e2-433c-b33b-9e346970391b" width="40%" height="40%">
