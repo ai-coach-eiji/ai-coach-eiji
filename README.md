@@ -12,6 +12,8 @@
 
 ### Works
 
+- 2024-01-09 - 2023年度スポーツデータサイエンスコンペティション（柔道部門)で[入賞](https://www.okinawatimes.co.jp/articles/gallery/1336053)🎉 しました。
+
 - 2023-11-29 - [AI採点技術](https://ryukyushimpo.jp/news/sports/entry-2399294.html)の開発（[琉球大学令和5年11月期学長記者懇談会](https://www.u-ryukyu.ac.jp/news/50613/)）に携わりました。
   
   〜①第３回ワールド琉球古武道チャンピオンシップ（世界大会)での AI採点導入について〜
