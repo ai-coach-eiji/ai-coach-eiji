@@ -13,6 +13,8 @@
 ### Works
 
 - 2024-01-09 - 2023年度スポーツデータサイエンスコンペティション（柔道部門)で[入賞](https://www.okinawatimes.co.jp/articles/gallery/1336053)🎉 しました。
+  <img src="https://github.com/ai-coach-eiji/ai-coach-eiji/assets/81530619/27390a70-3fbe-47ac-aa90-11349ad27f44" width="40%" height="40%">
+
 
 - 2023-11-29 - [AI採点技術](https://ryukyushimpo.jp/news/sports/entry-2399294.html)の開発（[琉球大学令和5年11月期学長記者懇談会](https://www.u-ryukyu.ac.jp/news/50613/)）に携わりました。
   
