@@ -21,6 +21,7 @@
   〜①第３回ワールド琉球古武道チャンピオンシップ（世界大会)での AI採点導入について〜
   <img src="https://github.com/ai-coach-eiji/ai-coach-eiji/assets/81530619/fbef7a6c-f5e2-433c-b33b-9e346970391b" width="40%" height="40%">
 
+- 2023-06-23 - ラート競技跳躍に関する研究成果が[PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287095)に採択されました。
 
 - 2023-05-03 - [培養細胞を解析するＡＩシステム](https://www.hokkoku.co.jp/articles/tym/1058936)の開発に携わりました。
 
