@@ -12,6 +12,8 @@
 
 ### Works
 
+- 2025-01-28 - 電子情報通信学会でプロボクサーのトレーニング支援に関する研究を[発表](https://ken.ieice.org/ken/paper/20250128ccHU/)しました。
+
 - 2024-01-09 - 2023年度スポーツデータサイエンスコンペティション（柔道部門)で[入賞](https://www.okinawatimes.co.jp/articles/gallery/1336053)🎉 しました。
   <img src="https://github.com/ai-coach-eiji/ai-coach-eiji/assets/81530619/27390a70-3fbe-47ac-aa90-11349ad27f44" width="40%" height="40%">
 
@@ -70,11 +72,6 @@
 - Apr 11 - [機械学習オンライン講義予習用](https://qiita.com/soyeiji1220/items/b70fb9d621e04c678fd1)
 - Apr 03 - [heroku に django プロジェクトをデプロイする時のエラーを解決したい](https://qiita.com/soyeiji1220/items/651e40a90904e028795d)
 - Sep 22 - [mediapipe handtracking の導入に出てくるエラー対策](https://qiita.com/soyeiji1220/items/732d125a35dd26d89036)
-
-
-### How to reach me
-
-- Twitterの[DM](https://twitter.com/messages/compose?recipient_id=3926021412)✉️ 解放しています。
 
 
 ### SNS
