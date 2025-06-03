@@ -12,7 +12,8 @@
 
 ### Works
 
-- 2025-01-28 - 電子情報通信学会でプロボクサーのトレーニング支援に関する研究を[発表](https://ken.ieice.org/ken/paper/20250128ccHU/)しました。
+- 2025-01-28 - 電子情報通信学会でプロボクサーのトレーニング支援に関する研究を発表しました。
+               （姿勢推定モデルおよび深度推定モデルを用いた動作分析によるプロボクサーのトレーニング支援）
 
 - 2024-01-09 - 2023年度スポーツデータサイエンスコンペティション（柔道部門)で[入賞](https://www.okinawatimes.co.jp/articles/gallery/1336053)🎉 しました。
   <img src="https://github.com/ai-coach-eiji/ai-coach-eiji/assets/81530619/27390a70-3fbe-47ac-aa90-11349ad27f44" width="40%" height="40%">
