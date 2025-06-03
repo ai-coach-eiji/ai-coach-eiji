@@ -75,9 +75,6 @@
 - Sep 22 - [mediapipe handtracking の導入に出てくるエラー対策](https://qiita.com/soyeiji1220/items/732d125a35dd26d89036)
 
 
-### SNS
-[<img src="https://user-images.githubusercontent.com/81530619/113411481-d468bc80-93f0-11eb-8157-c5b954ac473c.png" alt="alt text" width="5%" height="5%">](https://twitter.com/1220_eiji) [<img src="https://user-images.githubusercontent.com/81530619/113412155-83f25e80-93f2-11eb-8542-73e41efef46b.png" alt="alt text" width="5%" height="5%">](https://qiita.com/soyeiji1220)
-
 ### Languages and Tools
 <p align="left">
      <a href="https://www.python.org" target="_blank" rel="noreferrer">
