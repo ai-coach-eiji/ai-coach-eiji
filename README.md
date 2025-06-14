@@ -9,8 +9,6 @@
 
 <br>
 
-![5B64D630-2C22-46AE-BC55-54D290C9B99B]()
-
 ### Works
 - 2025-06-13 - 日本計算機統計学会第39回大会の[企画セッション：スポーツと計算機統計学](https://jscs.jp/conf/taikai39/%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%a0/)で講演しました。
   <img src="https://github.com/user-attachments/assets/3f1b05a2-6a9c-4af7-8f0a-608cf12af9df" width="40%" height="40%">
